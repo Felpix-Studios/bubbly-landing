@@ -6,8 +6,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Bubbly.Design',
-  description: 'A bubbly design company.',
+  title: 'bubbly.design',
+  description: 'a bubbly design company. coming soon with a component library, tempaltes, and custom services.',
 }
 
 export default function RootLayout({
