@@ -6,18 +6,18 @@ export default function Home() {
 			<div className="h-screen w-screen flex flex-col justify-between bg-white">
 				<div className="flex-grow flex flex-col items-center justify-center">
 					<h1 className="text-8xl text-center font-bold text-orange-500 shimmer">
-						Bubbly.Design
+						bubbly.design
 					</h1>
 				</div>
 				<footer className="text-center pb-4">
 					<p className="text-sm font-normal text-black">
-						Coming soon by{" "}
+						coming soon by{" "}
 						<a  
 							href="https://twitter.com/felpix_"
 							target="new"
 							className="text-blue-600 hover:text-blue-500"
 						>
-							Felpix
+							felpix
 						</a>
 					</p>
 				</footer>
