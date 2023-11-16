@@ -35,7 +35,7 @@ body {
   -webkit-text-fill-color: transparent;
   animation: shimmer 7s linear infinite;
   color: var(--color-primary);
-  line-height: 1.25;
+  line-height: 1.25 !important;
 }
 
 @keyframes shimmer {
